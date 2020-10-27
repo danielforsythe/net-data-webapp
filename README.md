@@ -1,6 +1,6 @@
 # net-data-webapp
-Web application using MySQL, PHP, Bootstrap, HTML, and CSS to modify and view network infrastructure information
-2020 Purdue Northwest Senior Design Exit Project for employer
+Web application using MySQL, PHP, Bootstrap, HTML, and CSS to modify and view network infrastructure information.<br />
+2020 Purdue Northwest Senior Design Exit Project for **Williams Aerial & Mapping, Inc.**<br />
 Latest Update: June 2020
 
 Features: 

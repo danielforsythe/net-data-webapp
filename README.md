@@ -1,5 +1,5 @@
 # net-data-webapp
-Web app to modify and view network infrastructure information
+Web application using MySQL, PHP, Bootstrap, HTML, and CSS to modify and view network infrastructure information
 2020 Purdue Northwest Senior Design Exit Project for employer
 Latest Update: June 2020
 
